@@ -2,25 +2,25 @@
   {
     "category": "Reaction",
     "score": 80,
-    "icon": "/public/assets/icon-reaction.svg",
+    "icon": "/assets/icon-reaction.svg",
     "skillClass": "red-skill"
   },
   {
     "category": "Memory",
     "score": 92,
-    "icon": "/public/assets/icon-memory.svg",
+    "icon": "/assets/icon-memory.svg",
     "skillClass": "yellow-skill"
   },
   {
     "category": "Verbal",
     "score": 61,
-    "icon": "/public/assets/icon-verbal.svg",
+    "icon": "/assets/icon-verbal.svg",
     "skillClass": "green-skill"
   },
   {
     "category": "Visual",
     "score": 73,
-    "icon": "/public/assets/icon-visual.svg",
+    "icon": "/assets/icon-visual.svg",
     "skillClass": "blue-skill"
   }
 ]
